@@ -33,6 +33,9 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <ItemGroup>
+    <Reference Include="Smart.Security">
+      <HintPath>..\SmartSecurity\bin\Debug\Smart.Security.dll</HintPath>
+    </Reference>
     <Reference Include="System" />
     <Reference Include="System.configuration" />
     <Reference Include="System.Data" />
@@ -64,12 +67,6 @@
     <Compile Include="TypeParse.cs" />
     <Compile Include="ValidateCode.cs" />
     <Compile Include="VerifyData.cs" />
-  </ItemGroup>
-  <ItemGroup>
-    <ProjectReference Include="..\SmartSecurity\SmartSecurity.csproj">
-      <Project>{116EC11E-6812-48DF-BFD6-8B3FF66C884F}</Project>
-      <Name>SmartSecurity</Name>
-    </ProjectReference>
   </ItemGroup>
   <ItemGroup>
     <None Include="ClassDiagram1.cd" />

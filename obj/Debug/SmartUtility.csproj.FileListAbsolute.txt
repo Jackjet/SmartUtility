@@ -1,0 +1,9 @@
+E:\GitHub\SmartUtility\obj\Debug\SmartUtility.csprojResolveAssemblyReference.cache
+E:\GitHub\SmartUtility\bin\Debug\Smart.Utility.XML
+E:\GitHub\SmartUtility\bin\Debug\Smart.Utility.dll
+E:\GitHub\SmartUtility\bin\Debug\Smart.Utility.pdb
+E:\GitHub\SmartUtility\bin\Debug\Smart.Security.dll
+E:\GitHub\SmartUtility\bin\Debug\Smart.Security.pdb
+E:\GitHub\SmartUtility\bin\Debug\Smart.Security.xml
+E:\GitHub\SmartUtility\obj\Debug\Smart.Utility.dll
+E:\GitHub\SmartUtility\obj\Debug\Smart.Utility.pdb
