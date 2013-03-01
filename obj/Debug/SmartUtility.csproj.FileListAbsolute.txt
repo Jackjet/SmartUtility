@@ -7,3 +7,8 @@ E:\GitHub\SmartUtility\bin\Debug\Smart.Security.pdb
 E:\GitHub\SmartUtility\bin\Debug\Smart.Security.xml
 E:\GitHub\SmartUtility\obj\Debug\Smart.Utility.dll
 E:\GitHub\SmartUtility\obj\Debug\Smart.Utility.pdb
+F:\opensource\SmartUtility\bin\Debug\Smart.Utility.XML
+F:\opensource\SmartUtility\bin\Debug\Smart.Utility.dll
+F:\opensource\SmartUtility\bin\Debug\Smart.Utility.pdb
+F:\opensource\SmartUtility\obj\Debug\Smart.Utility.dll
+F:\opensource\SmartUtility\obj\Debug\Smart.Utility.pdb
